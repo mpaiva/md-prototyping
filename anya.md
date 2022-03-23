@@ -41,7 +41,7 @@ You have a list of 5 people - sorted alphabetically:
 
 ## Search
 
-<form role="search" href="readme.md">
+<form role="search" method="POST" action="https://www.google.com">
   <input type="search" aria-label="search text" size="20">
   <input type="submit" value="Search">
 </form>

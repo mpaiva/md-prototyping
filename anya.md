@@ -32,7 +32,7 @@ You have a list of 5 people - sorted alphabetically:
 - [Jenny Woon](#)
     - No events 
 - [John Allen](#)
-    - [upcoming tomorrow](#)
+    - [check-in tomorrow](#)
     - [5 action items](#) 
 - [John Barry](#)
 - [Paul Atherton](#)
@@ -41,7 +41,7 @@ You have a list of 5 people - sorted alphabetically:
 
 ## Search
 
-<form role="search" href="https://google.com">
+<form role="search" href="readme.md">
   <input type="search" aria-label="search text" size="20">
   <input type="submit" value="Search">
 </form>

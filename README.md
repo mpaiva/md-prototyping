@@ -38,3 +38,13 @@ You have a list of 5 people - sorted alphabetically:
 - [Paul Atherton](#)
 - [Sylvia Park](#)
 
+
+## Search
+<form role="search">
+
+  <input type="search" aria-label="search text" size="20">
+
+  <input type="submit" value="Search">
+
+</form>
+

@@ -51,9 +51,19 @@ Description
 ### Form
 Using plain HTML code:
 
-    <form method="POST" action="README.md">
-     <input type="text"/>
-     <input type="submit"/>
-    </form>
+<form method="POST" action="README.md">
+ <input type="text"/>
+ <input type="submit"/>
+</form>
+
+<form name="form2" method="POST" action="anotherPage.php">
+  <input type="submit" value="link Button using Form"/>
+</form>
+
+<a href="anotherPage.html">
+  <input type="submit" value="Link Button using Anchor"/>
+</a>
+
+
 
 [link](#)

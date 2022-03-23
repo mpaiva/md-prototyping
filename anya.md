@@ -48,6 +48,12 @@ You have a list of 5 people - sorted alphabetically:
 
 Description
 
-### Footer
+### Form
+Using plain HTML code:
+
+    <form method="POST" action="README.md">
+     <input type="text"/>
+     <input type="submit"/>
+    </form>
 
 [link](#)
